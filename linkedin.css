@@ -1,0 +1,128 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color:#f2f1ef ;
+}
+.linkedin{
+    color:#2b66c3;
+
+}
+.in{
+    background-color:#2b66c3;
+    color: white;
+    width:3%;
+    text-align: center;
+    border-radius: 3px;
+    position: absolute;
+    z-index: 75;
+    top: 0px;
+    left: 112px;
+}
+.button{
+    background-color: #2b66c3;
+    color: white;
+    width: 65%;
+    height: 40px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+    padding: 0%;
+}
+
+.one{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.google{
+    background-color: white;
+    color: black;
+    width: 65%;
+    height: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+.microsoft{
+    background-color: white;
+    color: black;
+    width: 65%;
+    height: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+.border{
+    border: 2px solid white;
+    background-color: white;
+    width: 30%;
+    padding: 30px;
+    margin-left: 33%;
+    
+}
+.two{
+    font-size: 12px;
+    color: #99a7b6;
+}
+.email{
+    width: 65%;
+
+}
+.Password{
+    width: 65%;
+}
+.three{
+    font-size: smaller;
+    position:absolute;
+    z-index: 70;
+    left:515px
+}
+.four{
+    font-size: smaller;
+    position:absolute;
+    z-index: 70;
+    left:515px
+}
+
+.five{
+        position:absolute;
+        z-index: 70;
+        left:530px 
+}
+.check{
+        position:absolute;
+        z-index: 70;
+        left: 510px;
+}
+.G_img{
+    position:absolute;
+    z-index: 20;
+    left: 538px;
+    bottom: 99px;
+}
+.M_img{
+    position:absolute;
+    z-index: 20;
+    left: 533px;
+    bottom: 43px;
+}
+.or{
+    position: absolute;
+    z-index:70;
+    left: 485px;
+
+}
+.google:hover{
+        cursor: pointer;
+}
+.microsoft:hover{
+    cursor:pointer;
+}
+.button{
+    cursor: pointer;
+}
+
+    
+
+        
+        
+        
